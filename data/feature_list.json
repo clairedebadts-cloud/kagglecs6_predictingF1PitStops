@@ -1,0 +1,27 @@
+{
+  "features": [
+    "TyreLife",
+    "TyreLifeRatio",
+    "TyreOverdue",
+    "CompoundMedianLife",
+    "Compound_ord",
+    "LapNumber",
+    "RaceProgress",
+    "LapsRemaining",
+    "TotalLaps",
+    "Stint",
+    "StintCapped",
+    "IsStint2",
+    "LapTime (s)",
+    "Cumulative_Degradation",
+    "Position_Change",
+    "Position",
+    "IsFinalLaps",
+    "IsFirstLap",
+    "Is2023",
+    "IsStreetCircuit",
+    "Race_enc",
+    "Year"
+  ],
+  "target": "PitNextLap"
+}
